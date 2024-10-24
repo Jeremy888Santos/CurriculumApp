@@ -1,0 +1,61 @@
+.educacao {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #ff0000;
+    border-radius: 8px;
+  }
+  
+  .educacao h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .educacao label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .educacao input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  
+  label {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: #00ff08;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+
+  textarea {
+    outline: none;
+    border-color: #00ff08;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  }

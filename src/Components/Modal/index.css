@@ -1,0 +1,24 @@
+.cv-display {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .cv-display h2 {
+    font-size: 26px;
+    color: #010101;
+    margin-bottom: 20px;
+  }
+  
+  .cv-display h3 {
+    font-size: 22px;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  .cv-display p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
