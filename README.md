@@ -5,13 +5,13 @@ Esta aplicação é um projeto simples desenvolvido em React que permite aos usu
 --------------------------------------------------------------------------------------------------------------------
 
 # Funcionalidades
--- Informações Gerais: O usuário pode inserir dados como nome, e-mail e número de telefone.
+- Informações Gerais: O usuário pode inserir dados como nome, e-mail e número de telefone.
 
--- Experiência Educacional: Formulário para adicionar o nome da escola, título do estudo e data de conclusão.
+- Experiência Educacional: Formulário para adicionar o nome da escola, título do estudo e data de conclusão.
 
--- Experiência Profissional: Campos para inserir o nome da empresa, título da posição, principais responsabilidades, e datas de início e término.
+- Experiência Profissional: Campos para inserir o nome da empresa, título da posição, principais responsabilidades, e datas de início e término.
 
--- Botões de Edição e Envio: Cada seção inclui botões "Editar" e "Enviar".
+- Botões de Edição e Envio: Cada seção inclui botões "Editar" e "Enviar".
 O botão "Enviar" exibe os dados inseridos em formato HTML após a submissão do formulário.
 O botão "Editar" permite que o usuário modifique os dados já preenchidos, reabrindo os campos de entrada com as informações pré-existentes.
 
@@ -37,3 +37,9 @@ Cada um desses componentes recebe props para manter a modularidade e facilitar a
 - Vite – Ferramenta para desenvolvimento e construção do projeto.
 
 --------------------------------------------------------------------------------------------------------------------
+
+## Imagem Da Pagina Principal (Formularios Para Preechimento Dos Dados)
+![alt text](cvPrint01.jpg)
+
+## Imagem Do Display Onde OS Dados Serão Exibidos
+ ![alt text](cvPrint02.jpg)
